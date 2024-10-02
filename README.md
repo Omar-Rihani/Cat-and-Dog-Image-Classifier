@@ -46,6 +46,3 @@ The project consists of the following sections:
 ## Results
 The model should achieve at least 63% accuracy, with the possibility of reaching 70% accuracy with fine-tuning and additional epochs.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
